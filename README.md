@@ -1,56 +1,54 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Mahesh Bhatiya  
+**Full Stack Developer**  
+📍 Rajkot, Gujarat, India | 📧 [maheshbhatiya304@gmail.com](mailto:maheshbhatiya304@gmail.com) | 📞 +91 7567145617  
 
-###
+---
 
-<p align="left">My mahesh bhatiya <br>from: Rajkot, Gujarat, India</p>
+##  About Me  
+I'm a passionate **Full Stack Developer** with over **2 years of experience** crafting fast, scalable web applications using **React.js**, **Next.js**, and **Node.js**. I specialize in building robust **REST APIs**, integrating **WebSockets** for real-time features, and automating **DevOps workflows** with tools like **Linux**, **Nginx**, and **GitHub Actions**. My focus is on writing clean, maintainable code and solving complex backend and infrastructure challenges.
 
-###
+ **Connect with me:**  
+-  [Portfolio](https://maheshportfolio.vercel.app)  
+-  [GitHub](https://github.com/maheshbhatiya73)  
+-  [LinkedIn](https://linkedin.com/in/mahesh-bhatiya)  
 
-<h2 align="left">About me</h2>
+---
 
-###
+## Skills  
 
-<p align="left">✨ A passionate software developer creating innovative solutions.<br> All of my projects are available at https://maheshportfolio.vercel.app/<br> Know about my experiences https://maheshportfolio.vercel.app/maheshcv.pdf</p>
-
-###
-
-<h2 align="left">I working on</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+### Frontend  
+<div style="display: flex; justify-content: center; gap: 200px; flex-wrap: wrap;">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" /> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" /> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux" />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://linkedin.com/in/mahesh-bhatiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:maheshbhatiya304@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+### Backend  
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 16px;">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" /> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" title="Socket.IO" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshbhatiya73&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+### DevOps & Cloud  
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 16px;">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" /> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" title="Shell Scripting" /> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" /> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" title="Apache" /> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" title="GitHub Actions" /> 
 </div>
 
-###
+
+
+## Get in Touch  
+Feel free to reach out for collaboration, opportunities, or just to chat about tech!  
+- 📧 Email: [maheshbhatiya304@gmail.com](mailto:maheshbhatiya304@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/mahesh-bhatiya](https://linkedin.com/in/mahesh-bhatiya)  
+- 🌐 Portfolio: [maheshportfolio.vercel.app](https://maheshportfolio.vercel.app)  
