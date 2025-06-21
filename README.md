@@ -51,4 +51,4 @@ I'm a passionate **Full Stack Developer** with over **2 years of experience** cr
 Feel free to reach out for collaboration, opportunities, or just to chat about tech!  
 - 📧 Email: [maheshbhatiya304@gmail.com](mailto:maheshbhatiya304@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mahesh-bhatiya](https://linkedin.com/in/mahesh-bhatiya)  
-- 🌐 Portfolio: [maheshportfolio.vercel.app](https://maheshbhatiya.vercel.app)  
+- 🌐 Portfolio: [maheshbhatiya.vercel.app](https://maheshbhatiya.vercel.app)  
