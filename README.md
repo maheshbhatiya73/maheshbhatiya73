@@ -8,7 +8,7 @@
 I'm a passionate **Full Stack Developer** with over **2 years of experience** crafting fast, scalable web applications using **React.js**, **Next.js**, and **Node.js**. I specialize in building robust **REST APIs**, integrating **WebSockets** for real-time features, and automating **DevOps workflows** with tools like **Linux**, **Nginx**, and **GitHub Actions**. My focus is on writing clean, maintainable code and solving complex backend and infrastructure challenges.
 
  **Connect with me:**  
--  [Portfolio](https://maheshportfolio.vercel.app)  
+-  [Portfolio](https://maheshbhatiya.vercel.app)  
 -  [GitHub](https://github.com/maheshbhatiya73)  
 -  [LinkedIn](https://linkedin.com/in/mahesh-bhatiya)  
 
